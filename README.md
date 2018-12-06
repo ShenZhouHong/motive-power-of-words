@@ -3,6 +3,8 @@
 2018 Freshmen Language paper on the select quotation of *Introductory Lectures on Psycho-Analysis*, by Sigmund Freud.
 Written by Shen Zhou Hong [`<shong@sjc.edu>`](mailto:shong@sjc.edu)
 
+![Nice essay preview](./preview.png)
+
 ## Essay Information
 ### Essay Prompt
 
