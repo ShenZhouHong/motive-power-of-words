@@ -18,14 +18,21 @@ Written by Shen Zhou Hong [`<shong@sjc.edu>`](mailto:shong@sjc.edu)
 
 #### Quotation Analysis
 * **"Words were originally magic"**:
+  * What is the origin of words/language?
+  * What does Freud mean by the phrase "ancient magical power"? Does the 'power' of words stem from the past?
+  * Consider the difference between the spoken word (which came first) and the written word, which came later. What are their differences? Are they both "magical"?
 
 * **"By words one person can [affect another person's emotional state]"**:
+  * When one is driven *"blissfully happy"* or into despair through the means of words, are such emotions valid, or as valid as emotions resulting from a that of a corporal nature?
 
 * **"By words the teacher conveys his knowledge"**:
+  * Reflect on the thought of that, when we read the texts of Galen or Aristotle, we are literally learning from the thoughts of one who lived many thousands of years in the past.
 
 * **"By words the orator [can affect judgement]"**:
+  * When judgement results from the effects of words, does that judgement result from within, or is it a foreign object introduced by an outsider? When we are convinced, how certain can we say that our judgment is really that of our own?
 
 * **"Words [are the means of] mutual influence among men"**:
+  * Consider the role of words in the building and function of a society. What role do words play in societies?
 
 ### Essay Structure Planning
 
