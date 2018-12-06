@@ -19,10 +19,13 @@ Written by Shen Zhou Hong [`<shong@sjc.edu>`](mailto:shong@sjc.edu)
 ***By Freud, from the Introductory Lectures on Psycho-Analysis***
 
 #### Quotation Analysis
+The essay tasks us to write a reflection on the above quote from Sigmund Freud's *Introductory Lectures on Psychoanalysis*, which speaks about the nature of language. In order to write an intelligble reflection, we must first unpack what the quotation means. Freud's quotation makes the following five claims regarding the nature of words:
+
 * **"Words were originally magic"**:
   * What is the origin of words/language?
   * What does Freud mean by the phrase "ancient magical power"? Does the 'power' of words stem from the past?
   * Consider the difference between the spoken word (which came first) and the written word, which came later. What are their differences? Are they both "magical"?
+  * What is the power of etymology on the meanings of words?
 
 * **"By words one person can [affect another person's emotional state]"**:
   * When one is driven *"blissfully happy"* or into despair through the means of words, are such emotions valid, or as valid as emotions resulting from a that of a corporal nature?
@@ -35,6 +38,14 @@ Written by Shen Zhou Hong [`<shong@sjc.edu>`](mailto:shong@sjc.edu)
 
 * **"Words [are the means of] mutual influence among men"**:
   * Consider the role of words in the building and function of a society. What role do words play in societies?
+
+As this is supposed to be a short, reflective essay, specifically requested without external citations, a good way to approach the essay is to write from an introspective point of view (e.g. of personal experience). Claims 2 through 3 are fairly self-explanatory: as they are about the *motive* nature of words, e.g. the ability of words to affect humans: through emotion, education, or judgement.
+
+The more interesting claims, however - are claim number 1, and claim number five. The first claim is a big one, because it is an ontological claim about the origin/nature of words. This claim can be addressed in different ways, depending on if "words" is interpreted as the written word, as the spoken word, or as language altogether. The qualifier of "ancient" is also an interesting one, for it implies that such power stems from the past.
+
+Claim number 5 is an interesting sociological claim, about the role which words play within society.
+
+Normally, it would be structurally coherent to write about each of Freud's claims. However, as 600 words **is literally 2 pages of text in MS Word**, only a brief, prosatic reflection is possible. 
 
 ### Essay Structure Planning
 
