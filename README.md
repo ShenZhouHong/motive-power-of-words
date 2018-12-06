@@ -45,10 +45,13 @@ The more interesting claims, however - are claim number 1, and claim number five
 
 Claim number 5 is an interesting sociological claim, about the role which words play within society.
 
-Normally, it would be structurally coherent to write about each of Freud's claims. However, as 600 words **is literally 2 pages of text in MS Word**, only a brief, prosatic reflection is possible. 
+Normally, it would be structurally coherent to write about each of Freud's claims. However, as 600 words **is literally 2 pages of text in MS Word**, only a brief, prosaic reflection is possible. In light of this, the essay should be optimized to achieve the following goals, as outlined in the prompt:
+
+* **Be good at following prompt instructions**: e.g. not having a bibliography, within strictly the 500-600 word limit
+* **Clarity of writing**: Try to express clear, concise, and simple ideas.
+* **Thoughts about the nature of language as expressed in the quotation**
 
 ### Essay Structure Planning
-
 
 ## Technical Information
 ### Compiling document
