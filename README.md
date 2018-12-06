@@ -16,6 +16,17 @@ Written by Shen Zhou Hong [`<shong@sjc.edu>`](mailto:shong@sjc.edu)
 
 ***By Freud, from the Introductory Lectures on Psycho-Analysis***
 
+#### Quotation Analysis
+* **"Words were originally magic"**:
+
+* **"By words one person can [affect another person's emotional state]"**:
+
+* **"By words the teacher conveys his knowledge"**:
+
+* **"By words the orator [can affect judgement]"**:
+
+* **"Words [are the means of] mutual influence among men"**:
+
 ### Essay Structure Planning
 
 
